@@ -113,5 +113,6 @@ Funded by the National Science Centre (NCN), Poland, Grant No. 2022/47/I/NZ7/031
 
 ## Contact
 
-Narendra Rathod — narendra.rathod@unibe.ch
-Kriti Awasthi - kriti.awasthi@doctoral.uj.edu.pl
+Dr. Narendra Rathod — narendra.rathod@unibe.ch
+Ms. Kriti Awasthi - kriti.awasthi@doctoral.uj.edu.pl
+Prof. Ewa Stepien - e.stepien@uj.edu.pl
