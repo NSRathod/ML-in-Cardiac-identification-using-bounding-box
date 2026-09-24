@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article."
+title: "ML in Cardiac Identification Using Bounding Boxes"
+authors:
+  - family-names: Rathod
+    given-names: Narendra
+  - family-names: Awasthi
+    given-names: Kriti
+  - family-names: Kostkiewicz
+    given-names: Magdalena
+  - family-names: Stępień
+    given-names: Ewa
+license: CC-BY-4.0
+repository-code: "https://github.com/NSRathod/ML-in-Cardiac-identification-using-bounding-box"
+preferred-citation:
+  type: article
+  title: "Advancing Cardiac Detection in Chest X-ray Images Using Machine Learning: A Practical Application of AI in Medical Imaging"
+  authors:
+    - family-names: Rathod
+      given-names: Narendra
+    - family-names: Awasthi
+      given-names: Kriti
+    - family-names: Kostkiewicz
+      given-names: Magdalena
+    - family-names: Stępień
+      given-names: Ewa
+  journal: "Bio-Algorithms and Med-Systems"
+  volume: 20
+  issue: 1
+  year: 2024
+  doi: "10.5604/01.3001.0054.9269"
